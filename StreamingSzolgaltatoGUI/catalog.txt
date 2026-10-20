@@ -1,0 +1,7 @@
+Movie|The Dark Knight|152
+Movie|Avatar|162
+Movie|Titanic|195
+Movie|Gladiator|155
+Series|Breaking Bad|1. rész:58,2. rész:48,3. rész:47
+Series|Stranger Things|1. rész:50,2. rész:55,3. rész:49
+Series|The Office|1. rész:22,2. rész:21,3. rész:23
